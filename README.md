@@ -91,7 +91,6 @@ financial_agent/
 ├── analyzer.py            # LLM-powered sentiment analysis
 ├── secrets.py             # API keys storage
 ├── requirements.txt       # Dependencies
-├── .gitignore            # Git ignore file
 ├── README.md             # Project documentation
 └── test_data_fetch.py    # Testing script
 ```
